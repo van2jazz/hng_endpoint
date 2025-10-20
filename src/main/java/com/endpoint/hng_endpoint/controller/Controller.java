@@ -21,9 +21,9 @@ public class Controller {
         Map<String, Object> response = new HashMap<>();
         Map<String, Object> user = new HashMap<>();
 
-        // Populate user details
-        user.put("email", "your.email@example.com");
-        user.put("name", "Your Full Name");
+
+        user.put("email", "van2jazz@gmail.com");
+        user.put("name", "Balogun Dayo");
         user.put("stack", "Java/Spring Boot");
 
         String catFact = "Could not fetch cat fact at this time.";
