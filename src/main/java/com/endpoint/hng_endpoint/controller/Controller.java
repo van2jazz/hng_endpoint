@@ -44,4 +44,10 @@ public class Controller {
 
         return new ResponseEntity<>(response, HttpStatus.OK);
     }
+
+    @GetMapping("/")
+    public String home() {
+        return "Profile API is running!";
+    }
+
 }
