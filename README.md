@@ -3,7 +3,7 @@
 A  RESTful API that returns profile information, current date/time and a random cat fact and hosted on railway. 
 
 ## Clone repo
-git clone [https://github.com/<your-username>/profile-api.git](https://github.com/van2jazz/hng_endpoint.git)
+git clone https://github.com/van2jazz/hng_endpoint.git
 cd profile-api
 
 ## Run Locally
