@@ -1,9 +1,9 @@
 # Profile API — Spring Boot
 
-A  RESTful API that returns profile information, current date/time and a random cat fact. It is hosted on railway. 
+A  RESTful API that returns profile information, current date/time and a random cat fact and hosted on railway. 
 
 ## Clone repo
-git clone https://github.com/<your-username>/profile-api.git
+git clone [https://github.com/<your-username>/profile-api.git](https://github.com/van2jazz/hng_endpoint.git)
 cd profile-api
 
 ## Run Locally
@@ -17,8 +17,8 @@ mvn spring-boot:run
 {
   "status": "success",
   "user": {
-    "email": "your.email@example.com",
-    "name": "Your Full Name",
+    "email": "van2jazz@gmail.com",
+    "name": "Balogun Dayo",
     "stack": "Java/Spring Boot"
   },
   "timestamp": "2025-10-20T12:34:56.789Z",
